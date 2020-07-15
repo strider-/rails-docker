@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: ./web
+    command: bundle exec puma -C config/puma.rb
+    volumes:
+      - ./web:/app
+    ports:
+      - "3000:3000"
