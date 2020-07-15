@@ -1,4 +1,6 @@
-# Getting Started w/ Rails Dev Environment w/ Docker
+# Creating a Rails Dev Environment w/ Docker
+
+based on Ruby 2.5
 
 Run the following commands one time from the root folder in order to get a new project going:
 
