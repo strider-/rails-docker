@@ -1,6 +1,7 @@
 # Creating a Rails Dev Environment w/ Docker
 
-When using this setup, new projects will be based on the ruby:latest docker image.
+When using this setup, new projects will be based on the ruby:latest docker image, and the most recent
+version of rails 6.
 
 Run the following commands one time from the root folder in order to get a new project going:
 
