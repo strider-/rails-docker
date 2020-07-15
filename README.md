@@ -1,6 +1,6 @@
 # Creating a Rails Dev Environment w/ Docker
 
-based on Ruby 2.5
+When using this setup, new projects will be based on the ruby:latest docker image.
 
 Run the following commands one time from the root folder in order to get a new project going:
 
